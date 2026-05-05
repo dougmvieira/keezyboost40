@@ -6,7 +6,7 @@ mod delay;
 
 const NUM_COLS: usize = 10;
 const NUM_ROWS: usize = 4;
-const NUM_LAYERS: usize = 1;
+const NUM_LAYERS: usize = 4;
 
 pub struct Graphics{
     x: i32,
